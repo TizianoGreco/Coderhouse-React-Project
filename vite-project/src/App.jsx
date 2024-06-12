@@ -7,7 +7,7 @@ function App() {
   return (
     <ChakraProvider>
       <NavBar />
-      <ItemListContainer title="Tienda" />
+      <ItemListContainer title="Tienda Dale Play" />
     </ChakraProvider>
   );
 }
